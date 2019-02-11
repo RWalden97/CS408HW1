@@ -1,0 +1,7 @@
+3 1 1000000000
+S 1
+NS 500000
+S 70000000
+
+Boundary Test, tests max value of A/B
+Expected output: 965000001

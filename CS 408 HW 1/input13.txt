@@ -1,0 +1,7 @@
+3 1 6
+S 1
+S 6
+NS 4
+
+Base test case, unsorted input
+Expected output: 4

@@ -1,0 +1,4 @@
+A B C
+
+Testing non-integer input
+Expected output: INVALID INPUT

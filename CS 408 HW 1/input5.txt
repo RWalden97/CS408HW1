@@ -1,0 +1,9 @@
+5 1 10
+S 1
+NS 3
+S 5
+S 7
+NS 9
+
+Tests 2 players with No Sword, one against the boundary
+Expectde Output: 7

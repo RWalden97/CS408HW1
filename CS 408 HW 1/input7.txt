@@ -1,0 +1,9 @@
+5 3 10
+S 3
+NS 5
+S 6
+NS 7
+S 10
+
+Tests A > 1
+Expected Output: 5

@@ -1,0 +1,5 @@
+1 0 5
+NS 4
+
+Testing A is 0
+Expected output: INVALID INPUT

@@ -1,0 +1,26 @@
+11 1 37
+
+S 3
+
+S 6
+
+NS 7
+
+S 9
+
+NS 10
+
+NS 12
+
+S 17
+
+NS 20
+
+S 22
+
+S 31
+
+NS 35
+
+Robust test case, tests every possible player data sequence
+Expected output: 25

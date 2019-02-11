@@ -1,0 +1,7 @@
+3 1 6
+S 1
+NS 4
+S 6
+
+Base test case, given to us on assignment doc
+Expected output: 4
